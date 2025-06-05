@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\Tree\Tree\bin\Debug\net9.0-windows\Tree.exe
+C:\Users\asus\source\repos\Tree\Tree\bin\Debug\net9.0-windows\Tree.deps.json
+C:\Users\asus\source\repos\Tree\Tree\bin\Debug\net9.0-windows\Tree.runtimeconfig.json
+C:\Users\asus\source\repos\Tree\Tree\bin\Debug\net9.0-windows\Tree.dll
+C:\Users\asus\source\repos\Tree\Tree\bin\Debug\net9.0-windows\Tree.pdb
+C:\Users\asus\source\repos\Tree\Tree\obj\Debug\net9.0-windows\Tree.Form1.resources
+C:\Users\asus\source\repos\Tree\Tree\obj\Debug\net9.0-windows\Tree.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\Tree\Tree\obj\Debug\net9.0-windows\Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Tree\Tree\obj\Debug\net9.0-windows\Tree.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Tree\Tree\obj\Debug\net9.0-windows\Tree.AssemblyInfo.vb
+C:\Users\asus\source\repos\Tree\Tree\obj\Debug\net9.0-windows\Tree.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Tree\Tree\obj\Debug\net9.0-windows\Tree.dll
+C:\Users\asus\source\repos\Tree\Tree\obj\Debug\net9.0-windows\refint\Tree.dll
+C:\Users\asus\source\repos\Tree\Tree\obj\Debug\net9.0-windows\Tree.pdb
+C:\Users\asus\source\repos\Tree\Tree\obj\Debug\net9.0-windows\Tree.genruntimeconfig.cache
+C:\Users\asus\source\repos\Tree\Tree\obj\Debug\net9.0-windows\ref\Tree.dll
